@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/coolassassin/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Font</File>
+    <File>C:/Users/coolassassin/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/tile.png</File>
+    <File>C:/Users/coolassassin/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/apple.png</File>
+    <File>C:/Users/coolassassin/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/snake.png</File>
+    <File>C:/Users/coolassassin/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/snakeTile.png</File>
+    <File>C:/Users/coolassassin/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/loseScreen.png</File>
+  </SourceFiles>
+</SourceFileCollection>
